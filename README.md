@@ -12,7 +12,6 @@ I am Furqan Ashraf. I am an undergraduate student of BSSE.
  ## Connect with me:
 
 [<img align="left" alt="furqansays" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="furqan-ashraf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="furqan.ashraf.me | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br /> 
 
@@ -32,10 +31,6 @@ I am Furqan Ashraf. I am an undergraduate student of BSSE.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
 ![Vscode](https://img.shields.io/badge/-Vscode-000000?style=flat&logo=Vscode) <br />
-
-## Live Projects
-
-[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://furqansays.github.io/CPA)
 
 ## Github Overview
 
