@@ -31,7 +31,7 @@ I am Furqan Ashraf. I am an undergraduate student of BSSE.
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
-![Vscode](https://img.shields.io/badge/-Node-000000?style=flat&logo=Vscode) <br />
+![Vscode](https://img.shields.io/badge/-Vscode-000000?style=flat&logo=Vscode) <br />
 
 ## Live Projects
 
