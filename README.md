@@ -41,6 +41,6 @@ I am Furqan Ashraf. I am an undergraduate student of BSSE.
 
 ⭐️ From [furqansays](https://github.com/furqansays)
 
-[website]: https://furqansays.github.io/
-[twitter]: https://instagram.com/Furqan_say
+[website]: https://github.com/furqansays/
+[twitter]: https://twitter.com/Furqan_say
 [facebook]: https://www.facebook.com/furqan.ashraf.me/
