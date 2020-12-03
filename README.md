@@ -41,16 +41,13 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 
 ## Live Projects
 
-[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
+[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://furqansays.github.io/CPA)
 
 ## Github Overview
 
-<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="left" alt="furqansays's Github Stats" src="https://github-readme-stats.vercel.app/api?username=furqansays&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furqansays)](https://github.com/anuraghazra/github-readme-stats) 
 
-## Projects that I contributed to
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanjinurIslam&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/ShanjinurIslam/BUET-CSE-Moodle-Web-Scraping) <br />
 
 ## My Programming Performances
 
@@ -63,9 +60,9 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 | <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Max Rank | 1651 <br />  ![](https://img.shields.io/badge/-Expert-3262a8?style=flat)  | 1925 <br /> ![](https://img.shields.io/badge/-Candidate%20Master-a832a8?style=flat) | - | - |
 
 
-⭐️ From [TamimEhsan](https://github.com/TamimEhsan)
+⭐️ From [furqansays](https://github.com/furqansays)
 
 [website]: https://tamimehsan.github.io/
 [instagram]: https://instagram.com/tamim.ehsan
 [facebook]: https://www.facebook.com/tamimul.ehsan.9/
-[codeforces]:https://codeforces.com/profile/TamimEhsan
+[codeforces]:https://codeforces.com/profile/furqansays
